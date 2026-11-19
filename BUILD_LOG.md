@@ -28,8 +28,8 @@
 - **Mean 1321.5** — same as v1's measured mean. 6-game trials
   are noisy (SD ~115), so this is a tie; v2 is theoretically
   stronger (deeper search + more eval).
-- Per-move: avg 2.72s, max 3.94s (limit 10s); wall well under
-  1,800s, so 100k is safe for the final.
+- Per-move: avg 2.72s, max 3.94s; wall well under 1,800s,
+  so 100k is safe for the final.
 
 ## Verification
 
